@@ -12,4 +12,4 @@ and [OSRF/Rocker](https://github.com/osrf/rocker).
 [IEEE RA-L'24] Dynamic Obstacle Detection and Tracking (DODT) algorithm for Autonomous Robots (C++/ROS)
 
 [zijiechenrobotics_ig_lio](https://github.com/RobotResearchRepos/zijiechenrobotics_ig_lio/pkgs/container/zijiechenrobotics_ig_lio)<br />
-[IEEE RA-L'24] iG-LIO: An Incremental GICP-based Tightly-coupled LiDAR-inertial Odometry (C++/ROS)
+iG-LIO: An Incremental GICP-based Tightly-coupled LiDAR-inertial Odometry (C++/ROS)
