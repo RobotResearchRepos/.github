@@ -11,6 +11,9 @@ and [OSRF/Rocker](https://github.com/osrf/rocker).
 [hku-mars_BALM](https://github.com/RobotResearchRepos/hku-mars_BALM/pkgs/container/hku-mars_balm)<br />
 BALM 2.0: An efficient and consistent bundle adjustment for lidar mapping
 
+[hku-mars_FAST_LIO](https://github.com/orgs/RobotResearchRepos/packages/container/package/hku-mars_fast_lio)
+FAST-LIO: A computationally efficient and robust LiDAR-inertial odometry (LIO) package
+
 [Zhefan-Xu_onboard_detector](https://github.com/RobotResearchRepos/Zhefan-Xu_onboard_detector/pkgs/container/zhefan-xu_onboard_detector)<br />
 [IEEE RA-L'24] Dynamic Obstacle Detection and Tracking (DODT) algorithm for Autonomous Robots (C++/ROS)
 
