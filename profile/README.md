@@ -14,6 +14,9 @@ BALM 2.0: An efficient and consistent bundle adjustment for lidar mapping
 [hku-mars_FAST_LIO](https://github.com/orgs/RobotResearchRepos/packages/container/package/hku-mars_fast_lio)<br />
 FAST-LIO: A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 
+[UMich-BipedLab_LiDARTag](https://github.com/RobotResearchRepos/UMich-BipedLab_LiDARTag/pkgs/container/umich-bipedlab_lidartag)
+LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
+
 [Zhefan-Xu_onboard_detector](https://github.com/RobotResearchRepos/Zhefan-Xu_onboard_detector/pkgs/container/zhefan-xu_onboard_detector)<br />
 [IEEE RA-L'24] Dynamic Obstacle Detection and Tracking (DODT) algorithm for Autonomous Robots (C++/ROS)
 
