@@ -14,6 +14,9 @@ BALM 2.0: An efficient and consistent bundle adjustment for lidar mapping
 [hku-mars_FAST_LIO](https://github.com/orgs/RobotResearchRepos/packages/container/package/hku-mars_fast_lio)<br />
 FAST-LIO: A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 
+[KumarRobotics_msckf_vio](https://github.com/RobotResearchRepos/KumarRobotics_msckf_vio/pkgs/container/kumarrobotics_msckf_vio)<br />
+MSCKF_VIO: Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+
 [UMich-BipedLab_LiDARTag](https://github.com/RobotResearchRepos/UMich-BipedLab_LiDARTag/pkgs/container/umich-bipedlab_lidartag)<br />
 LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
 
