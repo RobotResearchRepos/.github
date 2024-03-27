@@ -20,6 +20,9 @@ MSCKF_VIO: Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 [UMich-BipedLab_LiDARTag](https://github.com/RobotResearchRepos/UMich-BipedLab_LiDARTag/pkgs/container/umich-bipedlab_lidartag)<br />
 LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
 
+[url-kaist_Quatro](https://github.com/RobotResearchRepos/url-kaist_Quatro/pkgs/container/url-kaist_quatro)<br />
+Quatro: Fast and robust global registration for terrestrial robots @ ICRA2022
+
 [Zhefan-Xu_onboard_detector](https://github.com/RobotResearchRepos/Zhefan-Xu_onboard_detector/pkgs/container/zhefan-xu_onboard_detector)<br />
 DODT: Dynamic Obstacle Detection and Tracking algorithm for Autonomous Robots
 
