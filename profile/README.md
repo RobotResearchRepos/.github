@@ -6,7 +6,7 @@ and [journals](https://www.ieee-ras.org/publications).<br />
 of the repositories are readily available for execution with [Docker](https://docs.docker.com/engine/install/ubuntu/) 
 and [OSRF/Rocker](https://github.com/osrf/rocker).
 
-### Packages
+### Reproducible Packages
 
 [hku-mars_BALM](https://github.com/RobotResearchRepos/hku-mars_BALM/pkgs/container/hku-mars_balm)<br />
 BALM 2.0: An efficient and consistent bundle adjustment for lidar mapping
